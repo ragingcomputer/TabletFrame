@@ -10,8 +10,11 @@ My dashboard configuration is at https://github.com/ragingcomputer/openhab-dashb
 
 ## Required Apps
 [Android System WebView](https://play.google.com/store/apps/details?id=com.google.android.webview)
+
 [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
+
 [Secure Settings](https://play.google.com/store/apps/details?id=com.intangibleobject.securesettings.plugin)
+
 [Motion Detector](https://play.google.com/store/apps/details?id=org.motion.detector)
 
 ## Installation
@@ -21,8 +24,11 @@ Using this requires instaling [Android Studio](https://developer.android.com/stu
 
 ## Customization
 Everything important happens in app/src/main/java/com/ragingcomputer/apps/tabletframe/MainActivity.java
+
 **DASHBOARD_URL** - URL of the dashing instance. It's best if you copy/paste this.
+
 **REFRESH_TIMER** - Time in milliseconds between page refresh. This timer is reset each time the screen is touched or the page reloads for other reasons.
+
 **IMMERSIVE_TIMER** - Time in milliseconds after last touch the screen returns to fullscreen.
 
 ## License
