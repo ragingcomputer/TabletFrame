@@ -20,7 +20,7 @@ My dashboard configuration is at https://github.com/ragingcomputer/openhab-dashb
 ## Installation
 Using this requires instaling [Android Studio](https://developer.android.com/studio/index.html) to customize, build the project, then install to your Android tablet.
 
-[![Installing TabletFrame](http://img.youtube.com/vi/rn-UsMa9kLM/0.jpg)](http://www.youtube.com/watch?v=rn-UsMa9kLM "Installing TabletFrame")
+[![Installing TabletFrame](http://img.youtube.com/vi/DBfwKYFbbb8/0.jpg)](http://www.youtube.com/watch?v=DBfwKYFbbb8 "Installing TabletFrame")
 
 ## Customization
 Everything important happens in app/src/main/java/com/ragingcomputer/apps/tabletframe/MainActivity.java
